@@ -5,8 +5,8 @@
 <p> A clone of Instagram feed page. The goal of this project is to test Flutter WEB features. So here I'm practicing web app development and application responsiveness with this tech.</p>
 
 <p float="left" align="center">
-    <img height="205" widht="100" src="readme-images/full-screen.png">
-    <img height="200" widht="100" src="readme-images/small-screen.png">
+    <img height="250" widht="150" src="readme-images/full-screen.png">
+    <img height="250" widht="150" src="readme-images/small-screen.png">
 </p>
 
 ## Getting Started
