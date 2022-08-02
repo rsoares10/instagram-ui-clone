@@ -4,6 +4,11 @@
 
 <p> A clone of Instagram feed page. The goal of this project is to test Flutter WEB features. So here I'm practicing web app development and application responsiveness with this tech.</p>
 
+<center>
+    <img height="205" widht="100" src="readme-images/full-screen.png">
+    <img height="200" widht="100" src="readme-images/small-screen.png">
+</center>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
