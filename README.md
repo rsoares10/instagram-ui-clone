@@ -11,8 +11,6 @@
 
 <!--Page link section-->
 
-<br />
-
 ## Live test
 
-<p> You can check this clone interactively <a>here.</a></p>
+<p> You can check this clone interactively <a href="#">here.</a></p>
