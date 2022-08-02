@@ -1,6 +1,8 @@
-# instagram_ui_clone
+<!-- description section-->
 
-A new Flutter project.
+# Instagram UI Clone
+
+<p> A clone of Instagram feed page. The goal of this project is to test Flutter WEB features. So here I'm practicing web app development and application responsiveness with this tech.</p>
 
 ## Getting Started
 
