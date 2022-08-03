@@ -9,7 +9,8 @@
     <img height="280" src="readme-images/small-screen.png">
 </p>
 
-<!-- gh-pages deploy link section>
+<!-- gh-pages deploy link section-->
+
 # Interactive test
 
-<p> You can check the resulting clone interactively <a href="https://rsoares10-flutter.github.io/instagram-ui-clone/">here</a></p>
+<p> You can check the resulting clone interactively <a href="https://rsoares10-flutter.github.io/instagram-ui-clone/">here</a>.</p>
