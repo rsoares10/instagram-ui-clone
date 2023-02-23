@@ -128,9 +128,9 @@ class PostWidget extends StatelessWidget {
                     ),
                   ),
                 ),
-                FlatButton(
+                ElevatedButton(
                   onPressed: () {},
-                  textColor: Colors.blue,
+                  // textColor: Colors.blue,
                   child: Text('Publicar'),
                 ),
               ],
